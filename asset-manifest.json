@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mvdis-signup-request/static/css/main.4da62354.css",
+    "main.js": "/mvdis-signup-request/static/js/main.f7664d34.js",
+    "static/js/787.8a69039d.chunk.js": "/mvdis-signup-request/static/js/787.8a69039d.chunk.js",
+    "index.html": "/mvdis-signup-request/index.html",
+    "main.4da62354.css.map": "/mvdis-signup-request/static/css/main.4da62354.css.map",
+    "main.f7664d34.js.map": "/mvdis-signup-request/static/js/main.f7664d34.js.map",
+    "787.8a69039d.chunk.js.map": "/mvdis-signup-request/static/js/787.8a69039d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da62354.css",
+    "static/js/main.f7664d34.js"
+  ]
+}
